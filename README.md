@@ -34,4 +34,4 @@ There are two versions of the tool:
 
 1. Run the script:
    ```bash
-   python password_strength_checker.py
+   python password_strength_.py
